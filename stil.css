@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image:url("Best-Cupcakes10.jpg");
+	}
+
+.btn{
+	color:pink;
+}
+.btn:hover{
+	color:rgb(255, 102, 102);
+	}	
+.centered{
+	position:absolute;
+	top:60%;
+	left:47%;
+	
+	}	
+span {
+	font-size: x-large;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	}	
